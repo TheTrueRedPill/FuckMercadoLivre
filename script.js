@@ -7,7 +7,9 @@
 // @supportURL   https://github.dev/TheTrueRedPill/FuckMercadoLivre
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=mercadolivre.com.br
 // @grant        none
-// @match        *://www.mercadolivre.com/*
+// @match        *://*mercadolivre.com/*
+// @match        *://www.mercadolivre.com.br/*
+// @match        *://produto.mercadolivre.com.br/*
 // @noframes
 // ==/UserScript==
 
